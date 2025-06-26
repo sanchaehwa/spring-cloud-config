@@ -1,5 +1,5 @@
 token:
   expiration_time: 86400000 # 24 hourrs 1Day
-  secret: ${JWT_SECRET}
+  secret: fJjqsPCviRCVyzu1qQg2lvCX9iiDDQGVcU6GIhAhDxQ
 gateway:
-  ip: ${GATEWAY_IP}
+  ip: 127.0.0.1
