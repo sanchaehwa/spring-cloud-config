@@ -1,5 +1,5 @@
 token:
   expiration_time: 86400000 # 24 hourrs 1Day
-  secret: user_token_native_ecommerce
+  secret: user_token_native_user_service
 gateway:
   ip: 127.0.0.1
